@@ -1,0 +1,4 @@
+:HL["/dirt-n-dust/_next/static/chunks/351-lb9x9sl-c.css","style"]
+:HL["/dirt-n-dust/images/v2/burst-dust.webp","image"]
+:HL["/dirt-n-dust/images/v2/texture-dust-1000.webp","image",{"fetchPriority":"high"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"Vac1lzAOqjfShn6k29OfH"}
